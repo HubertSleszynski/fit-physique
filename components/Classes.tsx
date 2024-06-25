@@ -10,25 +10,25 @@ const classes = [
     name: "body building",
     img: "/assets/img/classes/bodybuilding.jpg",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis qui expedita iste cumque obcaecati voluptate.",
+      "Shape your body with targeted strength training for muscle definition and growth.",
   },
   {
     name: "cardio",
     img: "/assets/img/classes/cardio.jpg",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis qui expedita iste cumque obcaecati voluptate.",
+      "Improve endurance and heart health through engaging cardiovascular workouts.",
   },
   {
     name: "fitness",
     img: "/assets/img/classes/fitness.jpg",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis qui expedita iste cumque obcaecati voluptate.",
+      "Enhance overall health with diverse exercises that boost strength and flexibility.",
   },
   {
     name: "crossfit",
     img: "/assets/img/classes/crossfit.jpg",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis qui expedita iste cumque obcaecati voluptate.",
+      "Master functional movements and intensity for full-body fitness and agility.",
   },
 ];
 
