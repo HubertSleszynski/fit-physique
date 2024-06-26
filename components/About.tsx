@@ -50,8 +50,8 @@ const About = () => {
             viewport={{ once: true }}
             className="max-w-[600px] mx-auto text-center"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius magnam
-            deserunt, placeat possimus eaque quibusdam.
+            Learn more about our mission, values, and the team dedicated to
+            helping you achieve your fitness goals.
           </motion.p>
         </div>
         <motion.div
